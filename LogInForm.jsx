@@ -24,7 +24,7 @@ export const LogInForm = ({navigation}) => {
     <View style={styles.container}>
       <StatusBar backgroundColor="#f4effa" />
       <CustomHeader
-        title="E-LOT PARK"
+        title=""
         titleStyle={{
           flexShrink: 1,
           fontSize: height * 0.05,
